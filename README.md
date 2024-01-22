@@ -1,1 +1,1 @@
-[Welcome](/img1.gif)
+![Welcome](/img1.gif)
