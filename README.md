@@ -16,4 +16,4 @@ x .d88"      .n~~%x.         .n~~%x.       z`    ^%    ..                 xeee
                                                          ~`                       
 ```
 
-<font color="red">A savvy warrior uses all of his tools.</font>
+> A savvy warrior uses all of his tools.
