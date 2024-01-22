@@ -1,5 +1,4 @@
-```css
-//
+```
       ..                                    .x+=:.                                
 x .d88"      .n~~%x.         .n~~%x.       z`    ^%    ..                 xeee    
  5888R     x88X   888.     x88X   888.        .   <k  @L                 d888R    
@@ -15,7 +14,6 @@ x .d88"      .n~~%x.         .n~~%x.       z`    ^%    ..                 xeee
                                                             98"                   
                                                           ./"                     
                                                          ~`                       
-
 ```
 
 $\text{A savvy warrior uses all of his tools}$
