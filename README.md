@@ -16,7 +16,9 @@ x .d88"      .n~~%x.         .n~~%x.       z`    ^%    ..                 xeee
                                                          ~`                       
 ```
 
-> A savvy warrior uses all of his tools.
+\text{A savvy warrior uses all of his tools}
+
+
 
 
 
