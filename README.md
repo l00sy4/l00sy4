@@ -8,6 +8,7 @@ $${\color{red}A \space savvy \space warrior \space uses \space all \space of \sp
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
 ```
 Always looking to collaborate on offensive tooling and malware projects!
 ```
