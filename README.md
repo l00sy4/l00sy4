@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="600" height="325" src="/name.png">
+  <img width="650" height="300" src="/name.png">
 </p>
 
 $${\color{red}A \space savvy \space warrior \space uses \space all \space of \space his \space tools.}$$
