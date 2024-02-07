@@ -10,7 +10,7 @@ $${\color{red}A \space savvy \space warrior \space uses \space all \space of \sp
 &nbsp;
 &nbsp;
 ```
-I like creating offensive tooling and malware in C. Always looking to collaborate!
+I like creating offensive tooling in C. Always looking to collaborate!
 ```
 &nbsp;
 &nbsp;
