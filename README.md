@@ -9,9 +9,7 @@ $${\color{red}A \space savvy \space warrior \space uses \space all \space of \sp
 &nbsp;
 &nbsp;
 &nbsp;
-```
-I like creating offensive tools in C. Always looking to collaborate!
-```
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l00sy4&theme=shadow_red&show_icons=true&locale=en" alt="l00sy4" /></p>
 
