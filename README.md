@@ -3,7 +3,6 @@
   <img width="650" height="300" src="/name.png">
 </p>
 
-$${\color{red}A \space savvy \space warrior \space uses \space all \space of \space his \space tools.}$$
 &nbsp;
 &nbsp;
 &nbsp;
